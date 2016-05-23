@@ -53,7 +53,7 @@
 ## Flow
 
 - When you are fully immersed in a task and have an energized focus
-- Mihaly Csikszentmihalyi (Me-High Cheek-sent-me-high)
+- Mihály Csíkszentmihályi (Me-High Cheek-sent-me-high)
 
 
 ### High Skill + High Challenge = Flow
@@ -64,7 +64,12 @@
 
 # High Challenge?
 
-![](http://www.eventstrategy.nl/wp-content/uploads/2012/01/flow-diagram1-1024x1024.jpg)
+![right](http://www.eventstrategy.nl/wp-content/uploads/2012/01/flow-diagram1-1024x1024.jpg)
+
+---
+
+> "Enjoyment appears at the boundary between boredom and anxiety"
+-- Mihály Csíkszentmihályi
 
 ---
 
@@ -73,6 +78,11 @@
 - Helps in improving skill
 - Intellectually and emotionally stimulating
 - Fun!
+
+---
+
+> "[Flow] makes the present instant more enjoyable, and it builds the self-confidence that allows us to develop skills..."
+-- Mihály Csíkszentmihályi
 
 ---
 
@@ -148,7 +158,7 @@
 
 ---
 
-# Failure is just a step on the way to a happy brain! ❤ 
+## Failure is just a step on the way to a happy brain! 💙 
 
 ---
 ![inline](https://i.imgur.com/KJUyVUh.png)
@@ -217,3 +227,13 @@ void loop() {
 # Thank you 
 
 ![](http://www.gravitybong.net/files/public/1462855220_1259_FT79802_kviqmdnismrznvlxbyjm.gif)
+
+--- 
+
+# References & Resources
+
+- Flow by Mihaly Csikszentmihalyi
+- Beyond Boredom and Anxiety by Mihaly Csikszentmihalyi
+- [Adafruit Guide To Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering/)
+- [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/overview)
+- [Instructables: Make a Hula Hoop](http://www.instructables.com/id/Make-a-Hula-Hoop/)
