@@ -40,7 +40,7 @@
 2. Friends
 3. Failure?
 
-![](http://i.imgur.com/bzYjIpu.jpg)
+![left](http://i.imgur.com/bzYjIpu.jpg)
 
 ---
 
@@ -150,7 +150,7 @@
 
 # Flow is good for your brain
 
-![](http://vomzi.com/wp-content/uploads/2016/02/45-im-so-excited-gif-466.gif)
+![left fit](http://vomzi.com/wp-content/uploads/2016/02/45-im-so-excited-gif-466.gif)
 
 ---
 
