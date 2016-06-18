@@ -1,5 +1,7 @@
 # Hardware, Hula Hoops, & Flow
-## Lindsey Bieda	
+# Lindsey Bieda	
+
+🐦 @lindseybieda | 🎮 ekko#11472
 
 ---
 
@@ -223,12 +225,30 @@ void loop() {
 
 ---
 
+# Basic electronics kit (or MVHardware stuff)
+- Soldering iron (hopefully with a stand)
+- Solder
+- Desoldering pump
+- Helping hand tool
+
+---
+
 
 # Thank you 
 
 ![](http://www.gravitybong.net/files/public/1462855220_1259_FT79802_kviqmdnismrznvlxbyjm.gif)
 
 --- 
+
+# Some kits to practice soldering
+- [Make: Color Visualizer Kit](http://www.makershed.com/products/color-visualizer-kit)
+- [Solder: Time II Watch Kit](http://www.makershed.com/products/solder-time-ii-watch-kit-1)
+- [LED Dice (Die) Kit ](http://www.makershed.com/products/led-dice-die-kit)
+- [Adafruit MintyBoost USB Charger Kit](http://www.makershed.com/products/mintyboost-usb-charger-kit-v3-0)
+- [MiniPOV 4 Kit - DIY Full-Color POV and Light Painting Kit](https://www.adafruit.com/products/1776) (my first ever)
+- [Conway's Game of Life Kit](https://www.adafruit.com/products/89)
+
+---
 
 # References & Resources
 
