@@ -1,5 +1,5 @@
-# Hardware, Hula Hoops, & Flow
-# Lindsey Bieda	
+# [fit] Hardware, Hula Hoops, & Flow
+## Lindsey Bieda	
 
 🐦 @lindseybieda | 🎮 ekko#11472
 
@@ -22,6 +22,19 @@
 - How do I start without electrocuting myself?
 
 ![](https://i.imgur.com/X5s0Fwj.jpg)
+
+---
+
+![left](https://upload.wikimedia.org/wikipedia/en/2/2a/HandyBoard_GJP.jpg)
+![right](https://cdn-shop.adafruit.com/970x728/1500-06.jpg)
+
+### Handyboard: $200
+- 68HC11 8-bit microcontroller @ 2 MHz
+- 32KB battery-backed SRAM
+
+### Trinket: $7
+- ATtiny85 8-bit microcontroller @ 8 MHz
+- 512 byte of SRAM
 
 ---
 
